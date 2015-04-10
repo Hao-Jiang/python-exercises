@@ -1,5 +1,6 @@
 """
 Sorting a list of strings using an alphabetical grid
+From Coursera: Principles of Computing
 """
 
 import random
